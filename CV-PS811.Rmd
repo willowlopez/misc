@@ -1,0 +1,71 @@
+---
+title: "CV-PS811"
+author: "Willow Lopez"
+date: "9/16/2020"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Willow Lopez
+
+Department of Political Science
+110 North Hall
+1050 Bascom Mall
+University of Wisconsin-Madison
+Madison, WI 53706
+
+wlopez@wisc.edu
+
+Phone: +1 (567)242-8160
+
+
+Education
+
+University of Wisconsin-Madison, Madison, WI 2020 - Present
+Ph.D., Political Science
+Field: American Politics
+
+University of Dayton, Dayton, OH 2016 - 2019
+B.A., Political Science (cum laude)
+
+Denison University, Granville, OH	2015 - 2016
+
+
+Research Experience
+
+University of Dayton, Independent Study, 2019
+Research under Dr. Christopher Devine                                                                                                
+
+Presentations
+
+"Female Representation in Local Governments and Reports of Rape: Examining US-Mexico Border Communities in the United States"
+
+American Political Science Association Annual Conference, Washington DC 2019
+
+Roesch Symposium, University of Dayton 2019
+
+
+Awards and Fellowships
+
+Kemper Knapp Fellowship
+UW Madison, 2020
+
+Dr. Patty Alvarez Graduating Scholar of Excellence Award
+University of Dayton, 2019
+
+Ralph Bunche Summer Institute Scholar
+Duke University, 2019
+
+Dean of Arts and Sciences Fellow
+University of Dayton, 2019
+
+
+Languages and Skills
+
+English (native), Spanish (working knowledge)
+R (working knowledge)
+  
